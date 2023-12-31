@@ -1,1 +1,1 @@
-- https://teai.dev/aws-encryption-sdk-message-viewer/
+- [AWS Encryption SDK Message Viewer](https://teai.dev/aws-encryption-sdk-message-viewer/)
