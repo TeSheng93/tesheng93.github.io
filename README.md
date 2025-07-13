@@ -3,4 +3,3 @@
 
 # Pages
 - [MobileNetV3 Image Classifier](https://teai.dev/tfjs-mobilenetv3/)
-- [AWS Encryption SDK Message Viewer](https://teai.dev/aws-encryption-sdk-message-viewer/)
